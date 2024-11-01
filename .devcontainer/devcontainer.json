@@ -1,0 +1,10 @@
+{
+    "name": "Advent2024-BS-Docs",
+    "image": "dast1986/slough-dev-dc-python:latest",
+    "remoteEnv": {
+        "PROMPTNAME": "Mborg-BS-Docs"
+    },
+    "mounts": [
+        "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
+    ]
+}
