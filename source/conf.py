@@ -28,3 +28,16 @@ language = "nl"
 
 html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
+
+html_theme_options = {
+    "style_external_links": False,
+    "flyout_display": "hidden",
+    "version_selector": True,
+    "language_selector": True,
+    # Toc options
+    "collapse_navigation": False,
+    "sticky_navigation": True,
+    "navigation_depth": 1,
+    "includehidden": True,
+    "titles_only": False,
+}
