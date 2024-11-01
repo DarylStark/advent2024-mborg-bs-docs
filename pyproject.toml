@@ -1,0 +1,9 @@
+[project]
+name = "mborg-bs-docs"
+version = "1.0.0"
+description = "Documentation for MBorg BS"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "sphinx>=8.1.3",
+]
