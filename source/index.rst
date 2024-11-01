@@ -16,19 +16,19 @@ Deze documentatie beschrijft de werking van de MBorg BS.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Licensering
-   
-   02-licensing/01-license-overview
-   02-licensing/02-external-licenses
-
-.. toctree::
-   :maxdepth: 1
    :caption: Console verbinding
    
    03-console/01-console-connection
    03-console/02-authentication
    03-console/03-system-info
    03-console/04-rommon-mode
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Licensering
+   
+   02-licensing/01-license-overview
+   02-licensing/02-external-licenses
 
 .. toctree::
    :maxdepth: 1
