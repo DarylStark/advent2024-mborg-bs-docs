@@ -41,9 +41,3 @@ Deze documentatie beschrijft de werking van de MBorg BS.
    :caption: Software update
    
    05-software-update/01-software-update
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Beer Selector
-   
-   06-beer-selector/01-configuration
