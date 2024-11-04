@@ -13,7 +13,7 @@ Handmatig een licentie toevoegen
 
 Een licentie kan handmatig worden toegevoegd door de volgende stappen te volgen:
 
-1.  Open de seriele console van het apparaat volgende de stappen in `Console connectie <../03-console/01-console-connection.html>`_.
+1.  Open de seriele console van het apparaat volgende de stappen in `Console connectie <../02-console/01-console-connection.html>`_.
 2.  Zorg ervoor dat de *configuratie modus* actief is.
 3.  Voer het volgende commando in:
 
